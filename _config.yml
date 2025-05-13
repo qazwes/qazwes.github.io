@@ -3,7 +3,7 @@ title: for lovers
 SEOTitle: 无名的博客 | noname Blog
 header-img: img/post-bg-desk.jpg
 email: testrobot9521@gmail.com
-description: "Running,keep running boys."
+description: "noname's blog"
 keyword: "lonely,search,empty"
 url: "http://qazwes.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,18 +11,18 @@ github_repo: "https://github.com/qazwes/qazwes.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Running,keep running boys!"
+sidebar-avatar: /img/avatar_me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     你谁
+github_username:    qazwes
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 

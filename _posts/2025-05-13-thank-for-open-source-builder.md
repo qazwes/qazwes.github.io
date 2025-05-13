@@ -4,7 +4,7 @@ title:      Acknowledgment 致谢
 subtitle:   thank for the work of qiubaiying
 date:       2025-05-13
 author:     noname
-header-img: img/2025-05-13-thank-for-open-source-builder.jpg
+header-img: img/post-2025-05-13-thank-for-open-source-builder.jpg
 catalog: true
 tags:
     - 个人博客

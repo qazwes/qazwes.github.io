@@ -23,7 +23,7 @@ RSS: false
 github_username:    qazwes
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
-twitter_username:   horn jalar
+twitter_username:   Hornjalar
 
 
 
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "CSDN",
+        href: "https://blog.csdn.net/weixin_53957461?spm=1000.2115.3001.5343"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "LibLib",
+        href: "https://www.liblib.art/userpage/bd6f7e9685424acab35c3e5fd0efb468/like/model"
     }
 ]

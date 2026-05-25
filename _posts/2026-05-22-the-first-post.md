@@ -4,7 +4,7 @@ title:      Essay 随笔
 subtitle:   when a hot and humid afternoon before the rain
 date:       2026-05-22
 author:     noname
-header-img: img/post-first-post.jpg
+header-img: img/post-first-post.jpeg
 catalog: true
 tags:
     - 碎碎念

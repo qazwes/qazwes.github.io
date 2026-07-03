@@ -69,7 +69,7 @@
   display: none;
 }
 .side-catalog .catalog-toggle::before {
-  content: "−";
+  content: "\2212";
   position: relative;
   margin-right: 5px;
   bottom: 1px;
@@ -499,10 +499,10 @@ pre code {
   background: no-repeat center center;
   background-color: #808080;
   background-attachment: scroll;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  background-size: contain;
-  -o-background-size: contain;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
   margin-bottom: 0px;
   /* 0 on mobile, modify by Hux */
 }
